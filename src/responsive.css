@@ -1,0 +1,112 @@
+@media (max-width: 1199px) {
+    #main {
+        background-size: 1365px !important;
+    }
+
+    .pr-heading h1 {
+        font-size: 2rem;
+    }
+
+    #about {
+        padding: 0px 0% 0px 0%;
+    }
+
+    .about-image {
+        width: 100%;
+    }
+
+    .about-text {
+        width: 100%;
+    }
+
+}
+
+@media (max-width: 991px) {
+
+
+    .header-heading h1 {
+        font-size: 5rem;
+    }
+
+    .header-btn {
+        margin-left: 0%;
+    }
+
+    .pr-btn {
+        margin-left: 0%;
+    }
+
+    #about {
+        height: 100vh;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    #main {
+        background-size: 1157px !important;
+    }
+
+    .header-heading h1 {
+        font-size: 3rem;
+    }
+
+    .details {
+        margin: 20px 20px;
+        text-align: center;
+    }
+
+    .header-btn {
+        margin-top: 0px;
+    }
+
+    .pr-heading {
+        width: 100%;
+    }
+
+    .pr-heading h1 {
+        font-size: 3rem;
+    }
+
+    .pr-heading .details {
+        font-size: 1.5rem;
+    }
+
+    .pr-btns {
+        margin-top: 20px;
+        margin-left: 30%;
+    }
+    
+
+}
+
+@media (max-width: 575px) {
+
+    .header-heading h1 {
+        font-size: 2.5rem;
+    }
+
+    .pr-heading h1 {
+        font-size: 2.5rem;
+    }
+
+    .about-text h1 {
+        font-size: 2rem;
+    }
+
+    .header-btn {
+        margin-top: 10px;
+    }
+
+}
+
+@media (max-width: 320px){
+    .header-heading h1 {
+        font-size: 1.5rem;
+    }
+
+    .pr-heading h1 {
+        font-size: 2rem;
+    }
+}
